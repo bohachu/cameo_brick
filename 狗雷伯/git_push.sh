@@ -1,3 +1,4 @@
+cd /content/cameo_brick
 git remote set-url origin https://cbh%40cameo.tw:Laserr!%40%23456@github.com/bohachu/cameo_brick.git
 git pull
 git add .
