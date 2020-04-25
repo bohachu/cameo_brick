@@ -1,5 +1,8 @@
 cd /content/cameo_brick
 
+#update colab .ipynb to github
+wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1d_ourbLJnhBrfPieLlQNc696Q5Tx9zBe' -O /content/cameo_brick/狗雷伯/狗雷伯積木塊入門.ipynb
+
 #github
 git remote set-url origin https://cbh%40cameo.tw:Laserr!%40%23456@github.com/bohachu/cameo_brick.git
 git pull
